@@ -33,5 +33,3 @@ The code generates analytical solutions and visualizations for system responses,
 ## Usage
 Run the scripts in MATLAB to analyze the different differential equation systems and visualize their responses.
 
-## Author
-Destinie James 
